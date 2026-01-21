@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis – End-to-End Data Analytics Project
 
-![Customer Behavior Dashboard](Screenshot%20(20).png)
+![Customer Behavior Dashboard]([Screenshot%20(20).png](https://github.com/himanshujoshitech/Customer_Behavior_Shopping_Analysis/blob/main/Power_BI_Dashboard_Screenshot.png))
 
 ---
 

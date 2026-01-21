@@ -27,6 +27,7 @@ A retail company wants to understand **how customers shop**, what influences **p
 ![Project Workflow](Screenshot%20(21).png)
 
 1️⃣ Business Problem Understanding 
+
 2️⃣ Data Cleaning & Feature Engineering **(Python – Pandas)**  
 3️⃣ Data Storage & Business Analysis **(PostgreSQL – SQL)**  
 4️⃣ Interactive Dashboard Creation **(Power BI)**  

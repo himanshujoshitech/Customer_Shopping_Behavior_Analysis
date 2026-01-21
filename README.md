@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Behavior Analysis – End-to-End Data Analytics Project
 
-![Customer Behavior Dashboard](https://github.com/himanshujoshitech/Customer_Behavior_Shopping_Analysis/blob/main/Power_BI_Dashboard_Screenshot.png)
+![Project Workflow](https://github.com/himanshujoshitech/Customer_Behavior_Shopping_Analysis/blob/main/Power_BI_Dashboard_Screenshot.png)
 
 ---
 
@@ -24,7 +24,7 @@ A retail company wants to understand **how customers shop**, what influences **p
 
 ## 🔄 Project Workflow
 
-![Project Workflow](Screenshot%20(21).png)
+![Project Workflow](https://github.com/himanshujoshitech/Customer_Behavior_Shopping_Analysis/blob/main/Workflow.jpg)
 
 The project follows a structured **end-to-end analytics workflow**, ensuring clarity from problem understanding to final delivery:
 

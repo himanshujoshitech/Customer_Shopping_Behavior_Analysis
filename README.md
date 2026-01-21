@@ -95,7 +95,8 @@ Key steps performed using **Pandas**:
 - Data consistency checks
 - Exporting cleaned data to **PostgreSQL**
 
-📁 **File:** `Python_Code.ipynb`
+📁 **File:** [`Python_Code.ipynb`](Python_Code.ipynb)
+
 
 ---
 
